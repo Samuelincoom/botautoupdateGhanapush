@@ -1,7 +1,7 @@
 {"data":[
 {"itemnumber":1,  
 "daynumber":1,
-"datelong":	1586476800000,   
+"datelong":1586476800000,   
 "additionaltoday":0,    
 "GhanaTotalconfirmed":378,	
 "GhanaTotaldeath":6,   
@@ -13,7 +13,7 @@
 "additionaltoday":40,    
 "GhanaTotalconfirmed":408,	
 "GhanaTotaldeath":8,   
-"GhanaTotalRecovered":4, 
+"GhanaTotalRecovered":4 
 
 
 	
