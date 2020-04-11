@@ -6,8 +6,7 @@
 "recovered":4,
 "deaths":8},
 
-
-"fid":2,
+{"fid":2,
 "regioncode":2,
 "provinsi":"Ashanti",
 "confirmed":40,
@@ -15,42 +14,42 @@
 "deaths":0},
 
 
-"fid":3,
+{"fid":3,
 "regioncod0e":3,
 "provinsi":"Eastern",
 "confirmed":25,
 "recovered":0,
 "deaths":0},
 
-"fid":4,
+{"fid":4,
 "regioncode":4,
 "provinsi":"Northern",
 "confirmed":10,
 "recovered":0,
 "deaths":0},
 
-"fid":5,
+{"fid":5,
 "regioncode":5,
 "provinsi":"Upper West",
 "confirmed":1,
 "recovered":0,
 "deaths":0},
 
-"fid":6,
+{"fid":6,
 "regioncode":6,
 "provinsi":"Upper East",
 "confirmed":1,
 "recovered":0,
 "deaths":0},
 
-"fid":7,
+{"fid":7,
 "regioncode":7,
 "provinsi":"North East",
 "confirmed":1,
 "recovered":0,
 "deaths":0},
 
-"fid":8,
+{"fid":8,
 "regioncode":8,
 "provinsi":"Central",
 "confirmed":1,
