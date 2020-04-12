@@ -1,14 +1,37 @@
-{"data":[{
-"fid":1,
-"regioncode":1,
+{"data":[{"totalconfirmed":408,
+         "totalrecovered":4,
+         "totaldeaths":8,
+        
+         "fid":9,
+"regioncode":9,
 "region":"Greater Accra",
-
 "confirmed":329,
 "recovered":4,
 "deaths":8,
   
-  "iso2":"",
+ 
+    
+"iso2":"",
+"lastUpdate":1586701034,
+"lat":5.577130,
+"long":-0.187389
+         
+         
+         },
   
+  
+  
+  {
+"fid":1,
+"regioncode":1,
+"region":"Greater Accra",
+"confirmed":329,
+"recovered":4,
+"deaths":8,
+  
+ 
+    
+"iso2":"",
 "lastUpdate":1586701034,
 "lat":5.577130,
 "long":-0.187389
@@ -24,8 +47,6 @@
 
 "iso2":"",
 "lastUpdate":1586701034,
-  
-
 "lat":6.700071,
 "long":-1.630783},
 
@@ -40,8 +61,6 @@
 
  "iso2":"",
 "lastUpdate":1586701034,
-  
-
 "lat":6.5000,
 "long":-0.5000
 
@@ -57,8 +76,6 @@
  
 "iso2":"",
 "lastUpdate":1586701034,
- 
-
 "lat":9.403390,
 "long":-0.842365},
 
@@ -68,8 +85,11 @@
 "confirmed":1,
 "recovered":0,
 "deaths":0,
+
+ 
+ 
+ 
 "lastUpdate":1586701034,
-  
 "iso2":"",
 "lat":10.060745,
 "long":-2.510452
@@ -87,9 +107,7 @@
  
  
 "lastUpdate":1586701034,
- 
- "iso2":"",
-  
+"iso2":"",
 "lat":10.806718,
 "long":-0.861866
 
@@ -119,10 +137,8 @@
 "deaths":0,
  
  
- "iso2":"",
+"iso2":"",
 "lastUpdate":1586701034,
-  
-
 "lat":5.129751,
 "long":-1.279271
 
