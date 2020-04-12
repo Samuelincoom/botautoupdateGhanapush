@@ -6,7 +6,7 @@
 "fid":1,
 "regioncode":1,
 "region":"Greater Accra",
-"confirmed":329,
+"confirmed":452,
 "recovered":4,
 "deaths":8,
   
@@ -21,7 +21,7 @@
 {"fid":2,
 "regioncode":2,
 "region":"Greater Kumasi",
-"confirmed":40,
+"confirmed":49,
 "recovered":0,
 "deaths":0,
  
@@ -35,7 +35,7 @@
 {"fid":3,
 "regioncode":3,
 "region":"Eastern",
-"confirmed":25,
+"confirmed":32,
 "recovered":0,
 "deaths":0,
  
@@ -63,7 +63,7 @@
 {"fid":5,
 "regioncode":5,
 "region":"Upper West",
-"confirmed":1,
+"confirmed":7,
 "recovered":0,
 "deaths":0,
 
@@ -82,7 +82,7 @@
 {"fid":6,
 "regioncode":6,
 "region":"Upper East",
-"confirmed":1,
+"confirmed":4,
 "recovered":0,
 "deaths":0,
  
@@ -122,7 +122,35 @@
 "lastUpdate":1586701034,
 "lat":5.129751,
 "long":-1.279271
+},
 
+{"fid":9,
+"regioncode":9,
+"region":"Volta Region",
+"confirmed":9,
+"recovered":0,
+"deaths":0,
+ 
+ 
+"iso2":"",
+"lastUpdate":1586701034,
+"lat":5.129751,
+"long":-1.279271
+
+},
+
+{"fid":8,
+"regioncode":8,
+"region":"Western",
+"confirmed":1,
+"recovered":0,
+"deaths":0,
+ 
+ 
+"iso2":"",
+"lastUpdate":1586701034,
+"lat":5.129751,
+"long":-1.279271
 
 
 
