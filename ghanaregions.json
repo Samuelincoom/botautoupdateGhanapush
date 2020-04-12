@@ -1,17 +1,15 @@
-{"data":[{"totalconfirmed":408,
-         "totalrecovered":4,
-         "totaldeaths":8,
+{"data":[{
         
          "fid":9,
 "regioncode":9,
-"region":"Greater Accra",
-"confirmed":329,
+"region":"Ghana Total",
+"confirmed":408,
 "recovered":4,
 "deaths":8,
   
  
     
-"iso2":"",
+
 "lastUpdate":1586701034,
 "lat":5.577130,
 "long":-0.187389
