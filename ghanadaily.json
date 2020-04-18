@@ -226,7 +226,15 @@
 "GhanaTotaldeath":8,   
 "GhanaTotalRecovered":83
 
+}, 
 
+{"itemnumber":23, 
+"daynumber":23,
+"datelong":1587215101000,   
+"additionaltoday":193,    
+"GhanaTotalconfirmed":834,	
+"GhanaTotaldeath":9,   
+"GhanaTotalRecovered":99
 
 
 
