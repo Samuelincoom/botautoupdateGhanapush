@@ -6,9 +6,9 @@
 "fid":1,
 "regioncode":1,
 "region":"Greater Accra",
-"confirmed":1089,
-"recovered":9,
-"deaths":99
+"confirmed":1347,
+"recovered":10,
+"deaths":155
   
  
     
@@ -29,7 +29,7 @@
 {"fid":3,
 "regioncode":3,
 "region":"Eastern",
-"confirmed":56,
+"confirmed":57,
 "recovered":0,
 "deaths":0
  
@@ -92,7 +92,7 @@
 {"fid":8,
 "regioncode":8,
 "region":"Central",
-"confirmed":7,
+"confirmed":17,
 "recovered":0,
 "deaths":0
  
@@ -135,7 +135,7 @@
 {"fid":12,
 "regioncode":12,
 "region":"Oti",
-"confirmed":13,
+"confirmed":17,
 "recovered":0,
 "deaths":0
  
