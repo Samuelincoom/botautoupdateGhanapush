@@ -6,9 +6,9 @@
 "fid":1,
 "regioncode":1,
 "region":"Greater Accra",
-"confirmed":1433,
+"confirmed":1795,
 "recovered":16,
-"deaths":188
+"deaths":212
   
  
     
@@ -18,7 +18,7 @@
 {"fid":2,
 "regioncode":2,
 "region":"Greater Kumasi",
-"confirmed":84,
+"confirmed":99,
 "recovered":0,
 "deaths":0
  
@@ -29,7 +29,7 @@
 {"fid":3,
 "regioncode":3,
 "region":"Eastern",
-"confirmed":57,
+"confirmed":70,
 "recovered":0,
 "deaths":0
  
@@ -51,7 +51,7 @@
 {"fid":5,
 "regioncode":5,
 "region":"Upper West",
-"confirmed":8,
+"confirmed":10,
 "recovered":0,
 "deaths":0
 
@@ -67,7 +67,7 @@
 {"fid":6,
 "regioncode":6,
 "region":"Upper East",
-"confirmed":18,
+"confirmed":19,
 "recovered":0,
 "deaths":0
  
@@ -92,7 +92,7 @@
 {"fid":8,
 "regioncode":8,
 "region":"Central",
-"confirmed":17,
+"confirmed":21,
 "recovered":0,
 "deaths":0
  
@@ -103,7 +103,7 @@
 {"fid":9,
 "regioncode":9,
 "region":"Volta Region",
-"confirmed":11,
+"confirmed":16,
 "recovered":0,
 "deaths":0
  
@@ -135,7 +135,7 @@
 {"fid":12,
 "regioncode":12,
 "region":"Oti",
-"confirmed":17,
+"confirmed":19,
 "recovered":0,
 "deaths":0
  
