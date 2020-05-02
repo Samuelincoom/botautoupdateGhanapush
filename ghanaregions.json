@@ -6,7 +6,7 @@
 "fid":1,
 "regioncode":1,
 "region":"Greater Accra",
-"confirmed":1795,
+"confirmed":1852,
 "recovered":16,
 "deaths":212
   
@@ -18,7 +18,7 @@
 {"fid":2,
 "regioncode":2,
 "region":"Greater Kumasi",
-"confirmed":99,
+"confirmed":117,
 "recovered":0,
 "deaths":0
  
@@ -29,7 +29,7 @@
 {"fid":3,
 "regioncode":3,
 "region":"Eastern",
-"confirmed":70,
+"confirmed":87,
 "recovered":0,
 "deaths":0
  
@@ -125,7 +125,7 @@
 {"fid":11,
 "regioncode":11,
 "region":"Western North",
-"confirmed":1,
+"confirmed":4,
 "recovered":0,
 "deaths":0
  
